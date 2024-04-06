@@ -22,13 +22,7 @@
 
 ###
 
-<p align="center">✨ Wandering around since 2021<br>📚 I'm currently learning ReactJS<br>🎯 Goals: Get used to Javascript ecosystem<br>🎲 Fun fact: I am a heavy caffeine drinker</p>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/85/f5/0a/85f50a8a24da7ef0239575f58b1defe5.gif"  />
-</div>
+<p align="center">✨ Wandering around since 2021<br>📚 I'm currently learning ReactJS<br>🎯 Goals: Get used to Javascript ecosystem<br>🎲 I am a heavy caffeine drinker</p>
 
 ###
 
