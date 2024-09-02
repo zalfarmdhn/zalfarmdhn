@@ -1,30 +1,9 @@
-<h1 align="center">🟢Hello world!🟢</h1>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWE0a2kxNmFiN3c2eTV0ZXZyb3pwYWVzMWN1dnBpajB1eGIxaG16biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8SzmrGqs6oD7i/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/zalfarmdhn/count.svg?"  />
-</div>
-
-###
 
 <h2 align="center">About me</h2>
 
 ###
 
-<p align="center">My name is Zalfa Ramadhan and I'm a Student from Indonesia<br>I always work my way around with ambitious and curiousness.</p>
-
-###
-
-<p align="center">✨ Wandering around since 2021<br>📚 I'm currently learning ReactJS<br>🎯 Goals: Get used to Javascript ecosystem<br>🎲 I am a heavy caffeine drinker</p>
-
-###
+<p align="center">My name is Zalfa Ramadhan, a student from Indonesia with a strong interest in Web Development and Web Design. If you share the same passion, feel free to reach out—let's explore and learn together!</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zalfarmdhn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -62,22 +41,3 @@
 
 ###
 
-<h2 align="center">Connect with me!</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/zalfarmdhn/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/zalfarmdhan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="discordapp.com/users/289750603914149888" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
-
-###
